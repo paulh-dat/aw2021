@@ -1,6 +1,6 @@
 # aw2021
 
-Exercise undertaken for SKSC interview process Oct / Nov 2021.
+Exercise undertaken for SCSK interview process Oct / Nov 2021.
 
 ## AdventureWorks_data_extract_clean
 
