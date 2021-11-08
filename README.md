@@ -2,7 +2,7 @@
 
 Exercise undertaken for SKSC interview process Oct / Nov 2021.
 
-##AdventureWorks_data_extract_clean
+## AdventureWorks_data_extract_clean
 
 connects to local sql server installation, onto which the aw.bak data archive has been restored
 queries data into pandas dataframe
